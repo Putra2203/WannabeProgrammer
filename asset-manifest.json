@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WannabeProgrammer/static/css/main.36a98017.css",
+    "main.js": "/WannabeProgrammer/static/js/main.799cde4d.js",
+    "static/media/properties.png": "/WannabeProgrammer/static/media/properties.53f51a61329de769632a.png",
+    "static/media/properties1.png": "/WannabeProgrammer/static/media/properties1.88e2e85f01ba6df28621.png",
+    "static/media/IMG_7902.jpg": "/WannabeProgrammer/static/media/IMG_7902.6c01d8e71ea6a05b6191.jpg",
+    "static/media/profile.png": "/WannabeProgrammer/static/media/profile.c7306bae97b2f9062d18.png",
+    "static/media/tagtype.ttf": "/WannabeProgrammer/static/media/tagtype.8fe87b11cdd6c3f0b34d.ttf",
+    "static/media/Pocahontas.otf": "/WannabeProgrammer/static/media/Pocahontas.0d8a1b5e417f3519c000.otf",
+    "static/media/Almerita.ttf": "/WannabeProgrammer/static/media/Almerita.83c56c1697773c18e8ca.ttf",
+    "index.html": "/WannabeProgrammer/index.html",
+    "main.36a98017.css.map": "/WannabeProgrammer/static/css/main.36a98017.css.map",
+    "main.799cde4d.js.map": "/WannabeProgrammer/static/js/main.799cde4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36a98017.css",
+    "static/js/main.799cde4d.js"
+  ]
+}
